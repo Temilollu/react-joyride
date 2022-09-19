@@ -91,5 +91,5 @@ Check the [step](step.md) docs for more information.
 Override the [styling](styling.md) of the Tooltip globally
 
 **tooltipComponent** {React.Node}  
-A React component or function to be used instead the default Tooltip excluding the arrow.  
+A React component or function to be used instead of the default Tooltip excluding the arrow.  
 Check [custom components](custom-components.md) for details.
